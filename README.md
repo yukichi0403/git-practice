@@ -1,3 +1,3 @@
 # git-practice
 このリポジトリはGit動画講座用です．
-修正
+github上で更新

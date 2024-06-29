@@ -2,4 +2,5 @@
 このリポジトリはGit動画講座用です．
 confluct-remote上で更新(conflict発生)
 rebase用
-Stash用
+Stashコンフリクト用
+
